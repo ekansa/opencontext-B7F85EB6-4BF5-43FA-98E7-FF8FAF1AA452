@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="40BA85E2-5D78-4F9F-D8D2-8A79C2B3EDDE" ownedBy="B7F85EB6-4BF5-43FA-98E7-FF8FAF1AA452">
+  <arch:name>
+    <arch:string>Edwards</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Region</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_9_459db9e4a</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>87556028-677C-4C59-BA35-AE509BC825AD</arch:variableID>
+          <arch:valueID>3A3EC001-4612-4B4E-F300-3AE393FBB4E5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/07D2F5B8-5691-477F-94A3-482FCC231CE7">07D2F5B8-5691-477F-94A3-482FCC231CE7</oc:propid>
+          <oc:var_label type="alphanumeric">County name</oc:var_label>
+          <oc:show_val>Edwards County</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B90CA9CC-B313-4525-8F26-0896AE7D3ED2</arch:variableID>
+          <arch:valueID>D0B89989-1041-4B7F-AAD3-DB6AE4BA14C6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/81B47D63-CB04-4F27-EEF9-E96A43DA618A">81B47D63-CB04-4F27-EEF9-E96A43DA618A</oc:propid>
+          <oc:var_label type="nominal">Gazetteer reference</oc:var_label>
+          <oc:show_val>Edwards County (GeoNames:4237705)</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="B90CA9CC-B313-4525-8F26-0896AE7D3ED2" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="81B47D63-CB04-4F27-EEF9-E96A43DA618A" localURI="http://opencontext.org/properties/81B47D63-CB04-4F27-EEF9-E96A43DA618A" href="http://www.geonames.org/4237705">
+                <oc:vocabulary href="http://www.geonames.org/">GeoNames</oc:vocabulary>
+                <oc:label>Edwards County</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>96B07DA9-4FA8-477C-493F-7C23F7792381</arch:variableID>
+          <arch:integer>47</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/27EF4A6E-2ADB-4CE3-0AE4-7ED340401168">27EF4A6E-2ADB-4CE3-0AE4-7ED340401168</oc:propid>
+          <oc:var_label type="integer">County FIPS</oc:var_label>
+          <oc:show_val>047</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>69D991B7-0FAC-4588-C172-1B15623A0801</arch:variableID>
+          <arch:integer>17047</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/77B11EC3-6695-4984-6CF8-C49D81C445FB">77B11EC3-6695-4984-6CF8-C49D81C445FB</oc:propid>
+          <oc:var_label type="integer">FIPS</oc:var_label>
+          <oc:show_val>17047</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/8C975D4F-8644-441A-39F3-4A00BBBC91C9">
+        <oc:name>Illinois</oc:name>
+        <oc:id>8C975D4F-8644-441A-39F3-4A00BBBC91C9</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/DA55B46B-5995-458C-9F57-F6E5D06EB9F4">
+        <oc:name>11Ed1</oc:name>
+        <oc:id>DA55B46B-5995-458C-9F57-F6E5D06EB9F4</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4347A87E-6459-4932-0223-785CB65C489C">
+        <oc:name>11Ed11</oc:name>
+        <oc:id>4347A87E-6459-4932-0223-785CB65C489C</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BA757CE2-7847-4FB3-76A4-E64154A6BC46">
+        <oc:name>11Ed12</oc:name>
+        <oc:id>BA757CE2-7847-4FB3-76A4-E64154A6BC46</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D69034AA-478B-4983-4E62-82DD7D477726">
+        <oc:name>11Ed14</oc:name>
+        <oc:id>D69034AA-478B-4983-4E62-82DD7D477726</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/233C2178-A0A7-470E-321F-543F214D0EA3">
+        <oc:name>11Ed15</oc:name>
+        <oc:id>233C2178-A0A7-470E-321F-543F214D0EA3</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A6E122B5-2EA5-4E84-07AF-F2D5978E3609">
+        <oc:name>11Ed17</oc:name>
+        <oc:id>A6E122B5-2EA5-4E84-07AF-F2D5978E3609</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2BF470A5-3BFA-4CDF-4D92-2E5C45A29C15">
+        <oc:name>11Ed18</oc:name>
+        <oc:id>2BF470A5-3BFA-4CDF-4D92-2E5C45A29C15</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/44336697-10CD-4DF5-924E-67AF43D9289B">
+        <oc:name>11Ed19</oc:name>
+        <oc:id>44336697-10CD-4DF5-924E-67AF43D9289B</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/90763141-17EF-4833-D715-770A25E08A6C">
+        <oc:name>11Ed2</oc:name>
+        <oc:id>90763141-17EF-4833-D715-770A25E08A6C</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D68543B6-1C91-4A47-09CD-C4A0DF4C7BF2">
+        <oc:name>11Ed20</oc:name>
+        <oc:id>D68543B6-1C91-4A47-09CD-C4A0DF4C7BF2</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4A807F25-527E-4886-EE7D-5CA9B092284D">
+        <oc:name>11Ed21</oc:name>
+        <oc:id>4A807F25-527E-4886-EE7D-5CA9B092284D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C1B0B859-C591-47C1-3B1A-88F085693C90">
+        <oc:name>11Ed23</oc:name>
+        <oc:id>C1B0B859-C591-47C1-3B1A-88F085693C90</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2BF0E67F-DD6B-42C3-5307-F4FA89548A29">
+        <oc:name>11Ed24</oc:name>
+        <oc:id>2BF0E67F-DD6B-42C3-5307-F4FA89548A29</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7E270F21-1097-4630-C83F-09EC21407EC3">
+        <oc:name>11Ed25</oc:name>
+        <oc:id>7E270F21-1097-4630-C83F-09EC21407EC3</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/06B37426-666D-431A-2C48-102CDC6CAC07">
+        <oc:name>11Ed26</oc:name>
+        <oc:id>06B37426-666D-431A-2C48-102CDC6CAC07</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1D238E77-B8CC-450E-B331-B88B0D35EB0E">
+        <oc:name>11Ed27</oc:name>
+        <oc:id>1D238E77-B8CC-450E-B331-B88B0D35EB0E</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8C1CB185-30CD-4A57-7767-6B5BE6AB5B16">
+        <oc:name>11Ed28</oc:name>
+        <oc:id>8C1CB185-30CD-4A57-7767-6B5BE6AB5B16</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A8AC8FA0-38EE-4820-16AE-7899C353BC01">
+        <oc:name>11Ed29</oc:name>
+        <oc:id>A8AC8FA0-38EE-4820-16AE-7899C353BC01</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9D1B604B-2629-420B-ED36-B7A9D510BBA1">
+        <oc:name>11Ed30</oc:name>
+        <oc:id>9D1B604B-2629-420B-ED36-B7A9D510BBA1</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/ED603B87-3AA6-49D7-E6C0-1852F7239F40">
+        <oc:name>11Ed31</oc:name>
+        <oc:id>ED603B87-3AA6-49D7-E6C0-1852F7239F40</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BEFA3D57-4CC8-4B20-77E7-3CB45294CD39">
+        <oc:name>11Ed32</oc:name>
+        <oc:id>BEFA3D57-4CC8-4B20-77E7-3CB45294CD39</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/77FA2B8A-BB59-464C-92A8-970DA984C985">
+        <oc:name>11Ed33</oc:name>
+        <oc:id>77FA2B8A-BB59-464C-92A8-970DA984C985</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A6B43966-3D1D-4A1B-E271-EE3E7104485F">
+        <oc:name>11Ed34</oc:name>
+        <oc:id>A6B43966-3D1D-4A1B-E271-EE3E7104485F</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4A71CA92-3182-44E1-39CB-DD01504129BC">
+        <oc:name>11Ed35</oc:name>
+        <oc:id>4A71CA92-3182-44E1-39CB-DD01504129BC</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2E73A1C4-416D-4890-2ADE-F9CCF3131206">
+        <oc:name>11Ed36</oc:name>
+        <oc:id>2E73A1C4-416D-4890-2ADE-F9CCF3131206</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/08444A5D-B1C7-4E88-4B33-DAD904963386">
+        <oc:name>11Ed37</oc:name>
+        <oc:id>08444A5D-B1C7-4E88-4B33-DAD904963386</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/64A4B6C7-5303-4898-69E3-249B5655404B">
+        <oc:name>11Ed38</oc:name>
+        <oc:id>64A4B6C7-5303-4898-69E3-249B5655404B</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/13D970A4-D7D5-4218-D7C1-E8F0DF51B6B3">
+        <oc:name>11Ed39</oc:name>
+        <oc:id>13D970A4-D7D5-4218-D7C1-E8F0DF51B6B3</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2963AD80-2D36-4990-6B3F-FA5D616257FB">
+        <oc:name>11Ed40</oc:name>
+        <oc:id>2963AD80-2D36-4990-6B3F-FA5D616257FB</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/29B36E7F-D3C9-46F9-4C10-FE9A545CBDDF">
+        <oc:name>11Ed41</oc:name>
+        <oc:id>29B36E7F-D3C9-46F9-4C10-FE9A545CBDDF</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4F1F933F-CB40-4320-9050-5110B99654AF">
+        <oc:name>11Ed42</oc:name>
+        <oc:id>4F1F933F-CB40-4320-9050-5110B99654AF</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F8A48305-9091-482A-527F-4610728D5051">
+        <oc:name>11Ed43</oc:name>
+        <oc:id>F8A48305-9091-482A-527F-4610728D5051</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/276CADDF-F7F7-40FC-7CE6-8D3D2ACB6E68">
+        <oc:name>11Ed44</oc:name>
+        <oc:id>276CADDF-F7F7-40FC-7CE6-8D3D2ACB6E68</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5670A092-C862-4848-DED1-22FC97F4917C">
+        <oc:name>11Ed45</oc:name>
+        <oc:id>5670A092-C862-4848-DED1-22FC97F4917C</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E943A277-EF31-4C86-7C79-09C3379382EF">
+        <oc:name>11Ed46</oc:name>
+        <oc:id>E943A277-EF31-4C86-7C79-09C3379382EF</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/47F5973E-7074-4732-A975-EE6360408FE0">
+        <oc:name>11Ed47</oc:name>
+        <oc:id>47F5973E-7074-4732-A975-EE6360408FE0</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/852523AD-E67D-4250-E782-70DE7995C8B8">
+        <oc:name>11Ed48</oc:name>
+        <oc:id>852523AD-E67D-4250-E782-70DE7995C8B8</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3C7CFD00-5B85-4787-94D6-A0652D254CD7">
+        <oc:name>11Ed49</oc:name>
+        <oc:id>3C7CFD00-5B85-4787-94D6-A0652D254CD7</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E31700EE-D0B7-4415-C0FB-CAD0395B3D09">
+        <oc:name>11Ed50</oc:name>
+        <oc:id>E31700EE-D0B7-4415-C0FB-CAD0395B3D09</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/433320FD-C37E-4DE5-EABF-A6F2B6B2230C">
+        <oc:name>11Ed51</oc:name>
+        <oc:id>433320FD-C37E-4DE5-EABF-A6F2B6B2230C</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9C827467-3C69-455B-E03F-96D9562CB899">
+        <oc:name>11Ed52</oc:name>
+        <oc:id>9C827467-3C69-455B-E03F-96D9562CB899</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/407714EC-1BA1-4473-A723-A86BA41CA606">
+        <oc:name>11Ed53</oc:name>
+        <oc:id>407714EC-1BA1-4473-A723-A86BA41CA606</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/87B8ECE5-E818-4992-C054-5B3352A3FBD0">
+        <oc:name>11Ed54</oc:name>
+        <oc:id>87B8ECE5-E818-4992-C054-5B3352A3FBD0</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AD33B21B-22AE-4593-DF2C-F5FCA496ED0D">
+        <oc:name>11Ed55</oc:name>
+        <oc:id>AD33B21B-22AE-4593-DF2C-F5FCA496ED0D</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/83024E98-F500-443E-4D46-0B9D8A4977DE">
+        <oc:name>11Ed56</oc:name>
+        <oc:id>83024E98-F500-443E-4D46-0B9D8A4977DE</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1A51DF6A-6F50-4464-AD13-F280CC0D11A6">
+        <oc:name>11Ed57</oc:name>
+        <oc:id>1A51DF6A-6F50-4464-AD13-F280CC0D11A6</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F4BA2DAD-F1B5-455E-5E9D-07E7EA93121C">
+        <oc:name>11Ed58</oc:name>
+        <oc:id>F4BA2DAD-F1B5-455E-5E9D-07E7EA93121C</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B25BA3DF-F957-47C8-AAA1-ADA694196C04">
+        <oc:name>11Ed59</oc:name>
+        <oc:id>B25BA3DF-F957-47C8-AAA1-ADA694196C04</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/919193C9-336B-4E6D-2DAD-4DE4BFDA20A1">
+        <oc:name>11Ed6</oc:name>
+        <oc:id>919193C9-336B-4E6D-2DAD-4DE4BFDA20A1</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9344A2F2-A949-4B61-D392-D1D13F10C809">
+        <oc:name>11Ed60</oc:name>
+        <oc:id>9344A2F2-A949-4B61-D392-D1D13F10C809</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E826AE01-D9D7-4A5E-6ABE-7C92D4897CC6">
+        <oc:name>11Ed61</oc:name>
+        <oc:id>E826AE01-D9D7-4A5E-6ABE-7C92D4897CC6</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/72249348-D7BB-4259-21C7-4DBA6B526D3C">
+        <oc:name>11Ed62</oc:name>
+        <oc:id>72249348-D7BB-4259-21C7-4DBA6B526D3C</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/32170643-FB8B-41E1-FBEA-27FC72C57480">
+        <oc:name>11Ed63</oc:name>
+        <oc:id>32170643-FB8B-41E1-FBEA-27FC72C57480</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F7C27699-5B88-4003-E010-8A9AE3683684">
+        <oc:name>11Ed64</oc:name>
+        <oc:id>F7C27699-5B88-4003-E010-8A9AE3683684</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5CE375C8-CFD2-47C5-D665-3BBEB76501CD">
+        <oc:name>11Ed65</oc:name>
+        <oc:id>5CE375C8-CFD2-47C5-D665-3BBEB76501CD</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9B7551C1-5BC2-410A-AD50-FFF8CA07E93F">
+        <oc:name>11Ed66</oc:name>
+        <oc:id>9B7551C1-5BC2-410A-AD50-FFF8CA07E93F</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8109C959-E62C-44AF-51BE-81625FF8FACB">
+        <oc:name>11Ed67</oc:name>
+        <oc:id>8109C959-E62C-44AF-51BE-81625FF8FACB</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DB0998F3-7A44-4CC4-63BD-656252CCA674">
+        <oc:name>11Ed68</oc:name>
+        <oc:id>DB0998F3-7A44-4CC4-63BD-656252CCA674</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EA2A8264-1C2B-4A2A-EC4B-C43511C77F97">
+        <oc:name>11Ed69</oc:name>
+        <oc:id>EA2A8264-1C2B-4A2A-EC4B-C43511C77F97</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/63787F72-F455-488D-6848-7333AA7DC2EE">
+        <oc:name>11Ed7</oc:name>
+        <oc:id>63787F72-F455-488D-6848-7333AA7DC2EE</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0308E609-34E6-4DE6-88A2-584EC024C43C">
+        <oc:name>11Ed70</oc:name>
+        <oc:id>0308E609-34E6-4DE6-88A2-584EC024C43C</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5A52C0B7-47FC-454E-7360-E5D8A0680971">
+        <oc:name>11Ed71</oc:name>
+        <oc:id>5A52C0B7-47FC-454E-7360-E5D8A0680971</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8FD61E29-3F19-4D37-1249-22A5F1599417">
+        <oc:name>11Ed72</oc:name>
+        <oc:id>8FD61E29-3F19-4D37-1249-22A5F1599417</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A0EFCE18-B20A-4E86-2633-F1672686EC5E">
+        <oc:name>11Ed73</oc:name>
+        <oc:id>A0EFCE18-B20A-4E86-2633-F1672686EC5E</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DAF4C114-DC7F-4A81-E7A9-EE014F4F45AB">
+        <oc:name>11Ed74</oc:name>
+        <oc:id>DAF4C114-DC7F-4A81-E7A9-EE014F4F45AB</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A3E9A4C2-037C-4556-790E-F65A8DB63368">
+        <oc:name>11Ed76</oc:name>
+        <oc:id>A3E9A4C2-037C-4556-790E-F65A8DB63368</oc:id>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Illinois Site Files: Edwards (Region)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-03-15</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Illinois</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Illinois State Museum (ISM)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/40BA85E2-5D78-4F9F-D8D2-8A79C2B3EDDE</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/B7F85EB6-4BF5-43FA-98E7-FF8FAF1AA452">Illinois Site Files</oc:project_name>
+    <oc:pub_date>2014-03-15T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Illinois+Site+Files%3A+Edwards+%28Region%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Illinois&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Illinois+State+Museum+%28ISM%29&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F40BA85E2-5D78-4F9F-D8D2-8A79C2B3EDDE</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>38.412784576416</oc:geo_lat>
+      <oc:geo_long>-88.045402526855</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/40BA85E2-5D78-4F9F-D8D2-8A79C2B3EDDE" specificity="-1">
+        <oc:note>Data from geonames.org</oc:note>
+        <oc:source_name>Edwards</oc:source_name>
+        <oc:source_id>40BA85E2-5D78-4F9F-D8D2-8A79C2B3EDDE</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-15T17:04:41-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/15 17:04:41</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>
